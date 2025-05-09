@@ -83,7 +83,7 @@ The output includes country rankings and comparative visualizations that highlig
 
 ## Future Work
 
-- Apply weighting methods like PCA or expert-informed weighting
+- Apply weighting methods like expert-informed weighting
 - Introduce interactive dashboards
 - Explore time-series trend analysis
 
